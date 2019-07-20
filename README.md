@@ -9,3 +9,9 @@ In order to setup the project you need to be running node.js
 
 ## Install 
 In order to install the app pleased run npm install.
+
+## Run the app
+
+## Versioning
+
+## Distribution
